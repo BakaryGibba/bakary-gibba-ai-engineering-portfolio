@@ -7,7 +7,7 @@
 | University foundation | Computer science, software engineering, AI fundamentals | Academic coursework and projects |
 | Research development | Explainable AI, LLM systems, applied AI | Publications, conference work, current research direction |
 | Engineering practice | Backend systems, frontend workflows, automation | FastAPI, NestJS, Express, React, Electron, n8n |
-| Production AI systems | Assistants, copilots, content intelligence, automation | Ava AI, Closer, Compass, RedNote |
+| Production AI systems | Assistants, copilots, content intelligence, automation | Ava AI, Closer, Compass, RedNote, Outreach Sentinel |
 | Current direction | Graduate research and production AI platforms | LLM evaluation, multi-agent systems, explainability |
 
 ## Narrative

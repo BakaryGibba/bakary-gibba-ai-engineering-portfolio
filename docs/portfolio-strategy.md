@@ -2,26 +2,18 @@
 
 # Portfolio Strategy
 
-This repository is designed as a first-stop navigation hub.
-
-It should answer five questions quickly:
-
-1. Who is Bakary Gibba?
-2. What kind of AI systems does he build?
-3. What research direction does he care about?
-4. Which projects demonstrate production engineering judgment?
-5. Where should a reviewer go next?
+This page explains how my projects connect: industry systems built during my internship, and research that asks how to make those systems explainable and reliable.
 
 ## Positioning
 
-The portfolio positions Bakary as an AI engineer preparing for deeper research work. The projects are intentionally framed as engineering case studies rather than raw code repositories because the goal is to communicate system design, trade-offs, AI workflow, and contribution.
+I am an AI engineer moving into graduate research. The industry projects are published as engineering case studies rather than code, because the source belongs to the company; they document system design, trade-offs, AI workflow, and my contribution.
 
 ## Portfolio Pillars
 
 | Pillar | Evidence |
 | --- | --- |
-| Production AI | Ava AI, Closer, Compass |
+| Production AI | Ava AI, Closer, Compass, Outreach Sentinel |
 | Backend architecture | NestJS, FastAPI, Express services |
 | AI workflows | RAG, realtime coaching, content strategy generation |
 | Automation | RedNote/n8n attended publishing system |
-| Research preparation | LLM systems, explainability, multi-agent AI, evaluation |
+| Research | Medx AI (HER2 + XAI), multi-agent resume matching (SITWE 2026), explainable medical imaging |

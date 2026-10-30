@@ -21,7 +21,7 @@ Kuala Lumpur, Malaysia · [Email](mailto:bakarygibba055@gmail.com) · [ResearchG
 
 ## At A Glance
 
-| 4 production AI case studies | 7 selected publications & preprints | 4× Dean's List |
+| 5 production AI case studies | 8 research works | 4× Dean's List |
 | :---: | :---: | :---: |
 | RAG · agents · automation | XAI · computer vision · decision support | Fully funded scholar |
 
@@ -35,12 +35,17 @@ Kuala Lumpur, Malaysia · [Email](mailto:bakarygibba055@gmail.com) · [ResearchG
 | [![Compass content intelligence workspace](images/projects/compass.png)](https://github.com/BakaryGibba/compass-content-trend-radar-case-study) | [![Ava AI HR assistant](images/projects/ava-ai.png)](https://github.com/BakaryGibba/ava-ai-case-study) |
 | **Content intelligence** from trend signals to explainable weekly strategy. `FastAPI` `React` `LLMs` | **Enterprise HR assistant** with scoped RAG, HRIS context, governance, and human handover. `NestJS` `Qdrant` `React` |
 
-| [Closer AI](https://github.com/BakaryGibba/closer-ai-sales-copilot-case-study) | [RedNote Automation](https://github.com/BakaryGibba/rednote-n8n-autoposting-case-study) |
+| [Closer AI](https://github.com/BakaryGibba/closer-ai-sales-agent-case-study) | [RedNote Automation](https://github.com/BakaryGibba/rednote-n8n-autoposting-case-study) |
 | --- | --- |
-| [![Closer AI sales copilot dashboard](images/projects/closer-ai.png)](https://github.com/BakaryGibba/closer-ai-sales-copilot-case-study) | [![RedNote n8n automation workflow](images/projects/rednote.png)](https://github.com/BakaryGibba/rednote-n8n-autoposting-case-study) |
+| [![Closer AI sales copilot dashboard](images/projects/closer-ai.png)](https://github.com/BakaryGibba/closer-ai-sales-agent-case-study) | [![RedNote n8n automation workflow](images/projects/rednote.png)](https://github.com/BakaryGibba/rednote-n8n-autoposting-case-study) |
 | **Realtime sales copilot** grounded in approved product knowledge and customer context. `Electron` `Express` `Qdrant` | **Attended publishing automation** across API, browser, and mobile lanes. `n8n` `Playwright` `Appium` |
 
-Each repository is a sanitized engineering case study covering architecture, trade-offs, workflows, screenshots, and lessons learned.
+| [Outreach Sentinel](https://github.com/BakaryGibba/linkedin-outreach-sentinel-agent-case-study) | [Medx AI](https://github.com/BakaryGibba/Medx-AI) |
+| --- | --- |
+| [![Outreach Sentinel operator queue](images/projects/outreach-sentinel.png)](https://github.com/BakaryGibba/linkedin-outreach-sentinel-agent-case-study) | [![Medx AI HER2 prediction with Grad-CAM explanation](images/projects/medx-ai.png)](https://github.com/BakaryGibba/Medx-AI) |
+| **Human-approved outreach** with fact-only AI drafting and double identity checks before every send. `Node.js` `Playwright` `OpenAI` | **Final-year research project**: HER2 classification with Grad-CAM and clinician-reviewed LLM recommendations. `PyTorch` `Django` `React` |
+
+Each industry repository is a sanitized engineering case study covering architecture, trade-offs, workflows, screenshots, and lessons learned.
 
 ## Engineering And Research Journey
 
@@ -51,7 +56,7 @@ timeline
   Research : Explainable AI : LLM systems : Multi-agent AI
   Internship : Production engineering : Backend and AI systems
   Publications : Peer-reviewed research : Applied AI topics
-  Production Systems : Ava AI : Closer AI : Compass : RedNote Automation
+  Production Systems : Ava AI : Closer AI : Compass : RedNote Automation : Outreach Sentinel
   Current Focus : Reliable AI platforms : Graduate research : AI evaluation
 ```
 
@@ -85,7 +90,8 @@ This loop shapes my work: evaluation is part of the architecture, not a final ch
 | Explainable AI | [Skin lesion classification with XAI — IEEE MECON 2025](https://doi.org/10.1109/MECON67253.2025.11277079) |
 | Hybrid deep learning | [Lung cancer classification with DenseNet169 and SVM](https://arxiv.org/abs/2512.03359) |
 | Medical image analysis | [Attention-enhanced U-Net for brain tumor segmentation](https://doi.org/10.48550/arXiv.2603.23344) |
-| Multi-agent systems | Explainable resume–job matching using LLM-based agents — under review |
+| Multi-agent systems | [Multi-agent framework for explainable resume–job matching — SITWE 2026, accepted and presented](https://github.com/BakaryGibba/Multi-Agent-Resume-Analysis-Research) |
+| Clinical decision support | [Medx AI — HER2 classification with Grad-CAM and clinician-reviewed LLM recommendations](https://github.com/BakaryGibba/Medx-AI) |
 
 My broader research spans multi-agent systems, agentic AI, RAG reliability, explainability, human-centered AI, and intelligent decision support. See [Research Direction](docs/research-direction.md) for the complete narrative.
 
